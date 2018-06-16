@@ -1,1 +1,2 @@
 My first file in Git!!!
+Now it is synced
